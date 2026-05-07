@@ -29,7 +29,7 @@ Focused on building high-impact B2B solutions, Fintech ecosystems, and Biometric
 ---
 
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koffi-ismael-urbain-bangura-53a744307/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/koffi-ismael-urbain-bangura-53a744307)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:banguraismael2017@gmail.com)
 
 ---
